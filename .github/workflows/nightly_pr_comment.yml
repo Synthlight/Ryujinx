@@ -19,7 +19,7 @@ jobs:
             const pull_head_sha = '${{github.event.workflow_run.head_sha}}';
 
             const issue_number = await (async () => {
-              const pulls = await github.rest.pulls.list({owner, repo});
+              const pulls = await github.rest.pulls.list.endpoint.merge({owner, repo});
               for await (const {data} of github.paginate.iterator(pulls)) {
                 for (const pull of data) {
                   if (pull.head.sha === pull_head_sha) {
