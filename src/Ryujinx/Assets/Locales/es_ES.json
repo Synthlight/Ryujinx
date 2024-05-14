@@ -404,6 +404,7 @@
   "GameListContextMenuToggleFavorite": "Marcar favorito",
   "GameListContextMenuToggleFavoriteToolTip": "Marca o desmarca el juego como favorito",
   "SettingsTabGeneralTheme": "Tema:",
+  "SettingsTabGeneralThemeAuto": "Auto",
   "SettingsTabGeneralThemeDark": "Oscuro",
   "SettingsTabGeneralThemeLight": "Claro",
   "ControllerSettingsConfigureGeneral": "Configurar",
