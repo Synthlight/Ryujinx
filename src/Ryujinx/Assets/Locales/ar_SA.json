@@ -404,6 +404,7 @@
   "GameListContextMenuToggleFavorite": "تعيين كمفضل",
   "GameListContextMenuToggleFavoriteToolTip": "تبديل الحالة المفضلة للعبة",
   "SettingsTabGeneralTheme": "السمة:",
+  "SettingsTabGeneralThemeAuto": "Auto",
   "SettingsTabGeneralThemeDark": "داكن",
   "SettingsTabGeneralThemeLight": "فاتح",
   "ControllerSettingsConfigureGeneral": "ضبط",
