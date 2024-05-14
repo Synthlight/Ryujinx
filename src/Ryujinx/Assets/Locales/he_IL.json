@@ -404,6 +404,7 @@
   "GameListContextMenuToggleFavorite": "למתג העדפה",
   "GameListContextMenuToggleFavoriteToolTip": "למתג סטטוס העדפה של משחק",
   "SettingsTabGeneralTheme": "ערכת נושא:",
+  "SettingsTabGeneralThemeAuto": "Auto",
   "SettingsTabGeneralThemeDark": "כהה",
   "SettingsTabGeneralThemeLight": "בהיר",
   "ControllerSettingsConfigureGeneral": "הגדר",
