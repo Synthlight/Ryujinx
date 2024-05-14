@@ -404,6 +404,7 @@
   "GameListContextMenuToggleFavorite": "Перемкнути вибране",
   "GameListContextMenuToggleFavoriteToolTip": "Перемкнути улюблений статус гри",
   "SettingsTabGeneralTheme": "Тема:",
+  "SettingsTabGeneralThemeAuto": "Auto",
   "SettingsTabGeneralThemeDark": "Темна",
   "SettingsTabGeneralThemeLight": "Світла",
   "ControllerSettingsConfigureGeneral": "Налаштування",
