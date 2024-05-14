@@ -404,6 +404,7 @@
   "GameListContextMenuToggleFavorite": "Ajouter/Retirer des favoris",
   "GameListContextMenuToggleFavoriteToolTip": "Activer/désactiver le statut favori du jeu",
   "SettingsTabGeneralTheme": "Thème :",
+  "SettingsTabGeneralThemeAuto": "Auto",
   "SettingsTabGeneralThemeDark": "Sombre",
   "SettingsTabGeneralThemeLight": "Clair",
   "ControllerSettingsConfigureGeneral": "Configurer",
