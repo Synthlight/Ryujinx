@@ -404,6 +404,7 @@
   "GameListContextMenuToggleFavorite": "สลับรายการโปรด",
   "GameListContextMenuToggleFavoriteToolTip": "สลับสถานะเกมที่ชื่นชอบ",
   "SettingsTabGeneralTheme": "ธีม:",
+  "SettingsTabGeneralThemeAuto": "Auto",
   "SettingsTabGeneralThemeDark": "มืด",
   "SettingsTabGeneralThemeLight": "สว่าง",
   "ControllerSettingsConfigureGeneral": "กำหนดค่า",
