@@ -404,6 +404,7 @@
   "GameListContextMenuToggleFavorite": "お気に入りを切り替え",
   "GameListContextMenuToggleFavoriteToolTip": "ゲームをお気に入りに含めるかどうかを切り替えます",
   "SettingsTabGeneralTheme": "テーマ:",
+  "SettingsTabGeneralThemeAuto": "Auto",
   "SettingsTabGeneralThemeDark": "ダーク",
   "SettingsTabGeneralThemeLight": "ライト",
   "ControllerSettingsConfigureGeneral": "設定",
