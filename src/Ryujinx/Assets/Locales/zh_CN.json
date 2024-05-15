@@ -404,7 +404,7 @@
   "GameListContextMenuToggleFavorite": "收藏",
   "GameListContextMenuToggleFavoriteToolTip": "切换游戏的收藏状态",
   "SettingsTabGeneralTheme": "主题：",
-  "SettingsTabGeneralThemeAuto": "Auto",
+  "SettingsTabGeneralThemeAuto": "跟随系统",
   "SettingsTabGeneralThemeDark": "深色(暗黑)",
   "SettingsTabGeneralThemeLight": "浅色(亮色)",
   "ControllerSettingsConfigureGeneral": "配置",
