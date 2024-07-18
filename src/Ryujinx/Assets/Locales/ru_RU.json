@@ -649,7 +649,7 @@
   "UserErrorUndefinedDescription": "Произошла неизвестная ошибка. Этого не должно происходить, пожалуйста, свяжитесь с разработчиками.",
   "OpenSetupGuideMessage": "Открыть руководство по установке",
   "NoUpdate": "Без обновлений",
-  "TitleUpdateVersionLabel": "Version {0} - {1}",
+  "TitleUpdateVersionLabel": "Версия {0}",
   "TitleBundledUpdateVersionLabel": "Комплект: Версия {0}",
   "TitleBundledDlcLabel": "Комплект:",
   "RyujinxInfo": "Ryujinx - Информация",
