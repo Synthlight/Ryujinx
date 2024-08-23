@@ -10,7 +10,7 @@
   "SettingsTabSystemUseHypervisor": "Utiliser l'Hyperviseur",
   "MenuBarFile": "_Fichier",
   "MenuBarFileOpenFromFile": "_Charger un jeu depuis un fichier",
-  "MenuBarFileOpenFromFileError": "No applications found in selected file.",
+  "MenuBarFileOpenFromFileError": "Aucune application trouvée dans le fichier sélectionné.",
   "MenuBarFileOpenUnpacked": "Charger un jeu extrait",
   "MenuBarFileOpenEmuFolder": "Ouvrir le dossier Ryujinx",
   "MenuBarFileOpenLogsFolder": "Ouvrir le dossier des journaux",
