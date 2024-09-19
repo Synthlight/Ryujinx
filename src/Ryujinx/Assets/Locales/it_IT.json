@@ -145,7 +145,7 @@
   "SettingsTabSystemAudioBackendSDL2": "SDL2",
   "SettingsTabSystemHacks": "Espedienti",
   "SettingsTabSystemHacksNote": "Possono causare instabilità",
-  "SettingsTabSystemExpandDramSize": "Expand DRAM to 8GiB",
+  "SettingsTabSystemExpandDramSize": "Espandi DRAM a 8GiB",
   "SettingsTabSystemIgnoreMissingServices": "Ignora servizi mancanti",
   "SettingsTabGraphics": "Grafica",
   "SettingsTabGraphicsAPI": "API grafica",
